@@ -1,4 +1,4 @@
-# TraveLand - Tour & Travel Agency Website Template
+# Alexis TraveLand - Tour & Travel Agency Website Template
 #### Preview
 
  - [Demo](https://themewagon.github.io/traveland/)
